@@ -1,0 +1,22 @@
+Tested on cura 5.11
+this plugin extract dome data from a GCODE file:
+- movements:
+  -X moves
+  -Y moves
+  -Z moves (layers)
+  -extrusion moves
+  -travel moves
+- Distances
+  - X distance
+  - Y distance
+  - Z distance (height)
+  - total distance
+  - extrusion distance
+  - travel distance
+- Filament
+  - filament used
+  - !extrusion ratio
+- speeds
+  -min speed
+  -max speed
+  -average speed  
